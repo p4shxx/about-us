@@ -30,15 +30,15 @@ actualizarContador();
 
 const fotos=[
 
-"/img/foto1.jpg",
-"/img/foto2.jpg",
-"/img/foto3.jpg",
-"/img/foto4.jpg",
-"/img/foto5.jpg",
-"/img/foto6.jpg",
-"/img/foto7.jpg",
-"/img/foto8.jpg",
-"/img/foto9.jpg"
+"img/foto1.jpg",
+"img/foto2.jpg",
+"img/foto3.jpg",
+"img/foto4.jpg",
+"img/foto5.jpg",
+"img/foto6.jpg",
+"img/foto7.jpg",
+"img/foto8.jpg",
+"img/foto9.jpg"
 
 
 ];
